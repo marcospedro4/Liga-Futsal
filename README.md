@@ -25,7 +25,4 @@ Jogadores: Nome, data de nascimento, posição e número da camisa são obrigat�
 
 🧪 Testando a API
 Use o Postman ou Insomnia com os exemplos de requisições fornecidos acima.
-👨‍💻 Autor
-Seu Nome - GitHub
-📄 Licença
-Este projeto está sob a licença MIT.
+.
